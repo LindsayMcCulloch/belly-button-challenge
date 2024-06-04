@@ -76,7 +76,7 @@ https://stackoverflow.com/questions/35783514/append-text-to-an-html-tag-using-ja
 
 https://stackoverflow.com/questions/67320685/how-to-create-a-drop-down-in-a-html-table-and-d3-bar-chart
 
-Peer review of code for syntax errors/debugging of js code
+Peer review for syntax errors/debugging of js code
 
 
 ## Acknowledgments
